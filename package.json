@@ -1,0 +1,21 @@
+{
+  "name": "austin_p0ns_org",
+  "version": "0.1.0",
+  "author": "p0ns <pons@p0ns.org>",
+  "description": "a simple website for a home server ",
+  
+  "main": "./run.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p0ns/austin_p0ns_org.git"
+  },
+  "dependencies" : {
+    "coffee-script"   :  "*",
+    "express" :  "3.x.x",
+    "coffeecup": "*"
+  },  
+  "license": "GPL",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
